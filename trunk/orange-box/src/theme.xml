@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <ConfigMaps>
   <ConfigMap type="Skin">
-    <Meta name="title">Simple Theme</Meta>
-    <Meta name="description">Simple theme example.</Meta>
-    <Meta name="author">Rowan</Meta>
-    <Meta name="author_email">Rowan@gmail.com</Meta>
-    <Meta name="thumbnail">http://gmodules.com/ig/images/skins/ig_thumb_beach.jpg</Meta>
+    <Meta name="title">Half-Life Theme</Meta>
+    <Meta name="description">Half-Life theme.</Meta>
+    <Meta name="author">Micah</Meta>
+    <Meta name="author_email">larson.micah@gmail.com</Meta>
   </ConfigMap>
   <ConfigMap type="Skin">
-    <Attribute name="header.background_color">teal</Attribute>
-    <Attribute name="header.logo">orange_beveled</Attribute>
+    <Attribute name="header.background_color">white</Attribute>
+    <Attribute name="header.logo">beveled_orange</Attribute>
     <Attribute name="header.link_color">blue</Attribute>
     <Attribute name="header.text_color">black</Attribute>
     <Attribute name="gadget_area.gadget.header.background_color">white</Attribute>
