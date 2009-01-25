@@ -59,12 +59,13 @@
     <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
     <Attribute name="gadget_area.gadget.header.text_color">black</Attribute>
     <Attribute name="gadget_area.gadget.body.link_color">#fb7e14</Attribute>
-    <Attribute name="gadget_area.icons.icon_color">#fb7e14</Attribute>
+    <!-- #fb7e14 is not a supported icon color (yet) -->
+    <Attribute name="gadget_area.icons.icon_color">#ffaa00</Attribute>
     <Attribute name="footer.background_color">gray</Attribute>
     <!-- <Attribute name="footer.center_image.url"></Attribute> -->
     <!-- <Attribute name="footer.tile_image.url"></Attribute> -->
     <Attribute name="footer.link_color">#fb7e14</Attribute>
-    <Attribute name="footer.text_color">#fb7e14</Attribute>
+    <Attribute name="footer.text_color">black</Attribute>
     <!-- <Attribute name="attribution.image.url"></Attribute> -->
   </ConfigMap>
 </ConfigMaps>
