@@ -58,7 +58,7 @@
     <Attribute name="gadget_area.gadget.border_color">gray</Attribute>
     <Attribute name="gadget_area.gadget.hover.border_color">#fb7e14</Attribute>
     <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
-    <Attribute name="gadget_area.gadget.header.text_color">#fb7e14</Attribute>
+    <Attribute name="gadget_area.gadget.header.text_color">#ffaa00</Attribute>
     <Attribute name="gadget_area.gadget.body.link_color">#fb7e14</Attribute>
     <!-- #fb7e14 is not a supported icon color (yet) -->
     <Attribute name="gadget_area.icons.icon_color">#ffaa00</Attribute>
