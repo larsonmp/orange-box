@@ -30,9 +30,10 @@
     <Attribute name="header.text_color">#fb7e14</Attribute>
     <Attribute name="navbar.background_color">gray</Attribute>
     <Attribute name="navbar.border_color">#fb7e14</Attribute>
-    <Attribute name="navbar.icons.icon_color">#fb7e14</Attribute>
-    <Attribute name="navbar.tab.selected.link_color">black</Attribute>
-    <Attribute name="navbar.tab.unselected.link_color">#fb7e14</Attribute>
+    <!-- #fb7e14 is not a supported icon color (yet) -->
+    <Attribute name="navbar.icons.icon_color">#ffaa00</Attribute>
+    <Attribute name="navbar.tab.selected.link_color">#fb7e14</Attribute>
+    <Attribute name="navbar.tab.unselected.link_color">black</Attribute>
     <Attribute name="navbar.tab.unselected.border_color">black</Attribute>
     <Attribute name="navbar.contacts.contact_color">black</Attribute>
     <Attribute name="navbar.contacts.status_color">#fb7e14</Attribute>
@@ -57,7 +58,7 @@
     <Attribute name="gadget_area.gadget.border_color">gray</Attribute>
     <Attribute name="gadget_area.gadget.hover.border_color">#fb7e14</Attribute>
     <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
-    <Attribute name="gadget_area.gadget.header.text_color">black</Attribute>
+    <Attribute name="gadget_area.gadget.header.text_color">#fb7e14</Attribute>
     <Attribute name="gadget_area.gadget.body.link_color">#fb7e14</Attribute>
     <!-- #fb7e14 is not a supported icon color (yet) -->
     <Attribute name="gadget_area.icons.icon_color">#ffaa00</Attribute>
