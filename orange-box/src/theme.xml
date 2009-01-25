@@ -23,10 +23,10 @@
   -->
   <ConfigMap type="Skin">
     <Attribute name="header.background_color">white</Attribute>
-    <Attribute name="header.center_image.url">image.png</Attribute>
+    <Attribute name="header.center_image.url">resources/image.png</Attribute>
     <Attribute name="header.logo">beveled_orange</Attribute>
     <Attribute name="header.link_color">#fb7e14</Attribute>
     <Attribute name="header.text_color">#fb7e14</Attribute>
-    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
+    <Attribute name="gadget_area.gadget.header.background_color">b</Attribute>
   </ConfigMap>
 </ConfigMaps>
