@@ -22,17 +22,51 @@
   </ConfigMap>
   -->
   <ConfigMap type="Skin">
-    <Attribute name="header.background_color">white</Attribute>
+    <Attribute name="header.background_color">black</Attribute>
     <Attribute name="header.center_image.url">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/image.png</Attribute>
+    <!-- <Attribute name="header.tile_image.url"></Attribute> -->
     <Attribute name="header.logo">beveled_orange</Attribute>
     <Attribute name="header.link_color">#fb7e14</Attribute>
     <Attribute name="header.text_color">#fb7e14</Attribute>
-    <Attribute name="navbar.background_color">black</Attribute>
+    <Attribute name="navbar.background_color">gray</Attribute>
     <Attribute name="navbar.border_color">#fb7e14</Attribute>
+    <Attribute name="navbar.icons.icon_color">#fb7e14</Attribute>
+    <!-- <Attribute name="navbar.tab.selected.link_color"></Attribute> -->
+    <!-- <Attribute name="navbar.tab.unselected.link_color"></Attribute> -->
+    <!-- <Attribute name="navbar.tab.unselected.border_color"></Attribute> -->
+    <!-- <Attribute name="navbar.contacts.contact_color"></Attribute> -->
+    <!-- <Attribute name="navbar.contacts.status_color"></Attribute> -->
+    <!-- <Attribute name="navbar.contacts.hover_background_color"></Attribute> -->
+    <!-- <Attribute name="navbar.contacts.card.border_color"></Attribute> -->
+    <!-- <Attribute name="navbar.contacts.invite.background_color"></Attribute> -->
+    <!-- <Attribute name="navbar.contacts.invite.border_color"></Attribute> -->
+    <!-- <Attribute name="navbar.contacts.invite.text_color"></Attribute> -->
+    <!-- <Attribute name="navbar.contacts.invite.link_color"></Attribute> -->
     <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
-    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
-    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
-    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
-    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
+    <!-- <Attribute name="gadget_area.chat.header.highlight.background_color"></Attribute> -->
+    <!-- DEPENDING ON USER'S VERSION OF iGoogle -->
+    <!-- <Attribute name="gadget_area.tab.border_color"></Attribute> -->
+    <!-- <Attribute name="gadget_area.tab.selected.background_color "></Attribute> -->
+    <!-- <Attribute name="gadget_area.tab.selected.text_color "></Attribute> -->
+    <!-- <Attribute name="gadget_area.tab.unselected.background_color"></Attribute> -->
+    <!-- <Attribute name="gadget_area.tab.unselected.text_color "></Attribute> -->
+    <!-------------------------------------------->
+    <!-- <Attribute name="gadget_area.border_color"></Attribute> -->
+    <!-- <Attribute name="gadget_area.gadget.border_color"></Attribute> -->
+    <!-- <Attribute name="gadget_area.gadget.hover.border_color"></Attribute> -->
+    <!-- <Attribute name="gadget_area.gadget.header.background_color"></Attribute> -->
+    <!-- <Attribute name="gadget_area.gadget.header.text_color"></Attribute> -->
+    <!-- <Attribute name="gadget_area.gadget.body.link_color"></Attribute> -->
+    <!-- <Attribute name="gadget_area.icons.icon_color"></Attribute> -->
+    <!-- <Attribute name="footer.background_color"></Attribute> -->
+    <!-- <Attribute name="footer.center_image.url"></Attribute> -->
+    <!-- <Attribute name="footer.tile_image.url"></Attribute> -->
+    <!-- <Attribute name="footer.link_color"></Attribute> -->
+    <!-- <Attribute name="footer.text_color"></Attribute> -->
+    <!-- <Attribute name="attribution.image.url"></Attribute> -->
+    <!-- <Attribute name=""></Attribute> -->
+    <!-- <Attribute name=""></Attribute> -->
+    <!-- <Attribute name=""></Attribute> -->
+    <!-- <Attribute name=""></Attribute> -->
   </ConfigMap>
 </ConfigMaps>
