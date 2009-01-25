@@ -4,13 +4,29 @@
     <Meta name="title">Half-Life Theme</Meta>
     <Meta name="description">Half-Life theme.</Meta>
     <Meta name="author">Micah</Meta>
+    <Meta name="author_location">Colorado, USA</Meta>
     <Meta name="author_email">larson.micah@gmail.com</Meta>
+    <!--
+    <Meta name="thumbnail"></Meta>
+    <Meta name="screenshot"></Meta>
+    -->
   </ConfigMap>
+  <!--
+  <ConfigMap type="Skin">
+    <Trait name="Language">ja</Trait>
+    <Trait name="Country">jp</Trait>
+    <Meta name="title"></Meta>
+    <Meta name="description"></Meta>
+    <Meta name="thumbnail"></Meta>
+    <Meta name="screenshot"></Meta>
+  </ConfigMap>
+  -->
   <ConfigMap type="Skin">
     <Attribute name="header.background_color">white</Attribute>
+    <Attribute name="header.center_image.url">image.png</Attribute>
     <Attribute name="header.logo">beveled_orange</Attribute>
-    <Attribute name="header.link_color">blue</Attribute>
-    <Attribute name="header.text_color">black</Attribute>
-    <Attribute name="gadget_area.gadget.header.background_color">white</Attribute>
+    <Attribute name="header.link_color">#fb7e14</Attribute>
+    <Attribute name="header.text_color">#fb7e14</Attribute>
+    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
   </ConfigMap>
 </ConfigMaps>
