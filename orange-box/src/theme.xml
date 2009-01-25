@@ -22,7 +22,7 @@
   </ConfigMap>
   -->
   <ConfigMap type="Skin">
-    <Attribute name="header.background_color">black</Attribute>
+    <Attribute name="header.background_color">gray</Attribute>
     <Attribute name="header.center_image.url">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/image.png</Attribute>
     <!-- <Attribute name="header.tile_image.url"></Attribute> -->
     <Attribute name="header.logo">beveled_orange</Attribute>
@@ -33,17 +33,17 @@
     <Attribute name="navbar.icons.icon_color">#fb7e14</Attribute>
     <Attribute name="navbar.tab.selected.link_color">black</Attribute>
     <Attribute name="navbar.tab.unselected.link_color">#fb7e14</Attribute>
-    <!-- <Attribute name="navbar.tab.unselected.border_color"></Attribute> -->
-    <!-- <Attribute name="navbar.contacts.contact_color"></Attribute> -->
-    <!-- <Attribute name="navbar.contacts.status_color"></Attribute> -->
+    <Attribute name="navbar.tab.unselected.border_color">black</Attribute>
+    <Attribute name="navbar.contacts.contact_color">black</Attribute>
+    <Attribute name="navbar.contacts.status_color">#fb7e14</Attribute>
     <Attribute name="navbar.contacts.hover_background_color">gray</Attribute>
-    <!-- <Attribute name="navbar.contacts.card.border_color"></Attribute> -->
-    <!-- <Attribute name="navbar.contacts.invite.background_color"></Attribute> -->
-    <!-- <Attribute name="navbar.contacts.invite.border_color"></Attribute> -->
-    <!-- <Attribute name="navbar.contacts.invite.text_color"></Attribute> -->
-    <!-- <Attribute name="navbar.contacts.invite.link_color"></Attribute> -->
+    <Attribute name="navbar.contacts.card.border_color">#fb7e14</Attribute>
+    <Attribute name="navbar.contacts.invite.background_color">white</Attribute>
+    <Attribute name="navbar.contacts.invite.border_color">#fb7e14</Attribute>
+    <Attribute name="navbar.contacts.invite.text_color">#fb7e14</Attribute>
+    <Attribute name="navbar.contacts.invite.link_color">#fb7e14</Attribute>
     <Attribute name="gadget_area.chat.header.background_color">black</Attribute>
-    <!-- <Attribute name="gadget_area.chat.header.highlight.background_color"></Attribute> -->
+    <Attribute name="gadget_area.chat.header.highlight.background_color">white</Attribute>
 
     <!-- DEPENDING ON USER'S VERSION OF iGoogle -->
     <!-- <Attribute name="gadget_area.tab.border_color"></Attribute> -->
@@ -60,7 +60,7 @@
     <Attribute name="gadget_area.gadget.header.text_color">black</Attribute>
     <Attribute name="gadget_area.gadget.body.link_color">#fb7e14</Attribute>
     <Attribute name="gadget_area.icons.icon_color">#fb7e14</Attribute>
-    <Attribute name="footer.background_color">black</Attribute>
+    <Attribute name="footer.background_color">gray</Attribute>
     <!-- <Attribute name="footer.center_image.url"></Attribute> -->
     <!-- <Attribute name="footer.tile_image.url"></Attribute> -->
     <Attribute name="footer.link_color">#fb7e14</Attribute>
