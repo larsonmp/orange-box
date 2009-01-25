@@ -31,18 +31,18 @@
     <Attribute name="navbar.background_color">gray</Attribute>
     <Attribute name="navbar.border_color">#fb7e14</Attribute>
     <Attribute name="navbar.icons.icon_color">#fb7e14</Attribute>
-    <!-- <Attribute name="navbar.tab.selected.link_color"></Attribute> -->
-    <!-- <Attribute name="navbar.tab.unselected.link_color"></Attribute> -->
+    <Attribute name="navbar.tab.selected.link_color">black</Attribute>
+    <Attribute name="navbar.tab.unselected.link_color">#fb7e14</Attribute>
     <!-- <Attribute name="navbar.tab.unselected.border_color"></Attribute> -->
     <!-- <Attribute name="navbar.contacts.contact_color"></Attribute> -->
     <!-- <Attribute name="navbar.contacts.status_color"></Attribute> -->
-    <!-- <Attribute name="navbar.contacts.hover_background_color"></Attribute> -->
+    <Attribute name="navbar.contacts.hover_background_color">gray</Attribute>
     <!-- <Attribute name="navbar.contacts.card.border_color"></Attribute> -->
     <!-- <Attribute name="navbar.contacts.invite.background_color"></Attribute> -->
     <!-- <Attribute name="navbar.contacts.invite.border_color"></Attribute> -->
     <!-- <Attribute name="navbar.contacts.invite.text_color"></Attribute> -->
     <!-- <Attribute name="navbar.contacts.invite.link_color"></Attribute> -->
-    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
+    <Attribute name="gadget_area.chat.header.background_color">black</Attribute>
     <!-- <Attribute name="gadget_area.chat.header.highlight.background_color"></Attribute> -->
 
     <!-- DEPENDING ON USER'S VERSION OF iGoogle -->
@@ -53,22 +53,18 @@
     <!-- <Attribute name="gadget_area.tab.unselected.text_color "></Attribute> -->
     <!-- END VERSION-DEPENDANT SECTION-->
 
-    <!-- <Attribute name="gadget_area.border_color"></Attribute> -->
-    <!-- <Attribute name="gadget_area.gadget.border_color"></Attribute> -->
-    <!-- <Attribute name="gadget_area.gadget.hover.border_color"></Attribute> -->
-    <!-- <Attribute name="gadget_area.gadget.header.background_color"></Attribute> -->
-    <!-- <Attribute name="gadget_area.gadget.header.text_color"></Attribute> -->
-    <!-- <Attribute name="gadget_area.gadget.body.link_color"></Attribute> -->
-    <!-- <Attribute name="gadget_area.icons.icon_color"></Attribute> -->
-    <!-- <Attribute name="footer.background_color"></Attribute> -->
+    <Attribute name="gadget_area.border_color">#fb7e14</Attribute>
+    <Attribute name="gadget_area.gadget.border_color">gray</Attribute>
+    <Attribute name="gadget_area.gadget.hover.border_color">#fb7e14</Attribute>
+    <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
+    <Attribute name="gadget_area.gadget.header.text_color">black</Attribute>
+    <Attribute name="gadget_area.gadget.body.link_color">#fb7e14</Attribute>
+    <Attribute name="gadget_area.icons.icon_color">#fb7e14</Attribute>
+    <Attribute name="footer.background_color">black</Attribute>
     <!-- <Attribute name="footer.center_image.url"></Attribute> -->
     <!-- <Attribute name="footer.tile_image.url"></Attribute> -->
-    <!-- <Attribute name="footer.link_color"></Attribute> -->
-    <!-- <Attribute name="footer.text_color"></Attribute> -->
+    <Attribute name="footer.link_color">#fb7e14</Attribute>
+    <Attribute name="footer.text_color">#fb7e14</Attribute>
     <!-- <Attribute name="attribution.image.url"></Attribute> -->
-    <!-- <Attribute name=""></Attribute> -->
-    <!-- <Attribute name=""></Attribute> -->
-    <!-- <Attribute name=""></Attribute> -->
-    <!-- <Attribute name=""></Attribute> -->
   </ConfigMap>
 </ConfigMaps>
