@@ -25,13 +25,13 @@
     <Attribute name="header.background_color">gray</Attribute>
     <Attribute name="header.center_image.url">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/image.png</Attribute>
     <!-- <Attribute name="header.tile_image.url"></Attribute> -->
-    <Attribute name="header.logo">beveled_orange</Attribute>
+    <Attribute name="header.logo">beveled_white</Attribute>
     <Attribute name="header.link_color">#fb7e14</Attribute>
     <Attribute name="header.text_color">#fb7e14</Attribute>
     <Attribute name="navbar.background_color">gray</Attribute>
     <Attribute name="navbar.border_color">#fb7e14</Attribute>
     <!-- #fb7e14 is not a supported icon color (yet) -->
-    <Attribute name="navbar.icons.icon_color">#ffaa00</Attribute>
+    <Attribute name="navbar.icons.icon_color">#000000</Attribute>
     <Attribute name="navbar.tab.selected.link_color">#fb7e14</Attribute>
     <Attribute name="navbar.tab.unselected.link_color">black</Attribute>
     <Attribute name="navbar.tab.unselected.border_color">black</Attribute>
@@ -58,8 +58,8 @@
     <Attribute name="gadget_area.gadget.border_color">gray</Attribute>
     <Attribute name="gadget_area.gadget.hover.border_color">#fb7e14</Attribute>
     <Attribute name="gadget_area.gadget.header.background_color">black</Attribute>
-    <Attribute name="gadget_area.gadget.header.text_color">#ffaa00</Attribute>
-    <Attribute name="gadget_area.gadget.body.link_color">#fb7e14</Attribute>
+    <Attribute name="gadget_area.gadget.header.text_color">white</Attribute>
+    <Attribute name="gadget_area.gadget.body.link_color">#ffffff</Attribute>
     <!-- #fb7e14 is not a supported icon color (yet) -->
     <Attribute name="gadget_area.icons.icon_color">#ffaa00</Attribute>
     <Attribute name="footer.background_color">gray</Attribute>
