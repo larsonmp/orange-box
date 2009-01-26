@@ -13,7 +13,7 @@
   </ConfigMap>
   <ConfigMap type="Skin">
     <Attribute name="header.background_color">#c3c3c3</Attribute>
-    <Attribute name="header.center_image.url">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/image.png</Attribute>
+    <Attribute name="header.center_image.url">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/header_image.png</Attribute>
     <Attribute name="header.logo">beveled_white</Attribute>
     <Attribute name="header.link_color">#fb7e14</Attribute>
     <Attribute name="header.text_color">#fb7e14</Attribute>
