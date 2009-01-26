@@ -11,20 +11,9 @@
     <Meta name="screenshot"></Meta>
     -->
   </ConfigMap>
-  <!--
-  <ConfigMap type="Skin">
-    <Trait name="Language">ja</Trait>
-    <Trait name="Country">jp</Trait>
-    <Meta name="title"></Meta>
-    <Meta name="description"></Meta>
-    <Meta name="thumbnail"></Meta>
-    <Meta name="screenshot"></Meta>
-  </ConfigMap>
-  -->
   <ConfigMap type="Skin">
     <Attribute name="header.background_color">#c3c3c3</Attribute>
     <Attribute name="header.center_image.url">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/image.png</Attribute>
-    <!-- <Attribute name="header.tile_image.url"></Attribute> -->
     <Attribute name="header.logo">beveled_white</Attribute>
     <Attribute name="header.link_color">#fb7e14</Attribute>
     <Attribute name="header.text_color">#fb7e14</Attribute>
@@ -46,7 +35,7 @@
     <Attribute name="gadget_area.chat.header.background_color">black</Attribute>
     <Attribute name="gadget_area.chat.header.highlight.background_color">white</Attribute>
 
-    <!-- DEPENDING ON USER'S VERSION OF iGoogle -->
+    <!-- DEPEND ON USER'S VERSION OF iGoogle -->
     <!-- <Attribute name="gadget_area.tab.border_color"></Attribute> -->
     <!-- <Attribute name="gadget_area.tab.selected.background_color "></Attribute> -->
     <!-- <Attribute name="gadget_area.tab.selected.text_color "></Attribute> -->
@@ -63,10 +52,14 @@
     <!-- #fb7e14 is not a supported icon color (yet) -->
     <Attribute name="gadget_area.icons.icon_color">#ffffff</Attribute>
     <Attribute name="footer.background_color">#c3c3c3</Attribute>
-    <!-- <Attribute name="footer.center_image.url"></Attribute> -->
-    <!-- <Attribute name="footer.tile_image.url"></Attribute> -->
     <Attribute name="footer.link_color">#fb7e14</Attribute>
     <Attribute name="footer.text_color">black</Attribute>
-    <!-- <Attribute name="attribution.image.url"></Attribute> -->
+    
+    <!-- UNUSED ATTRIBUTES
+    <Attribute name="header.tile_image.url"></Attribute>
+    <Attribute name="footer.center_image.url"></Attribute>
+    <Attribute name="footer.tile_image.url"></Attribute>
+    <Attribute name="attribution.image.url"></Attribute>
+    -->
   </ConfigMap>
 </ConfigMaps>
