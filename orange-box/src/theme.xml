@@ -2,13 +2,13 @@
 <ConfigMaps>
   <ConfigMap type="Skin">
     <Meta name="title">Lambda-Crowbar</Meta>
-    <Meta name="description">An homage to crowbars, and the 11th letter in the Greek alphabet.</Meta>
+    <Meta name="description">An homage to crowbars and the 11th letter in the Greek alphabet.</Meta>
     <Meta name="author">Micah Larson</Meta>
     <Meta name="author_location">Colorado, USA</Meta>
     <Meta name="author_email">larson.micah@gmail.com</Meta>
+    <Meta name="screenshot">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/screencap.png</Meta>
     <!--
     <Meta name="thumbnail"></Meta>
-    <Meta name="screenshot"></Meta>
     -->
   </ConfigMap>
   <ConfigMap type="Skin">
