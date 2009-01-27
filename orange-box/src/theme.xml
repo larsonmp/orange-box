@@ -2,8 +2,7 @@
 <ConfigMaps>
   <ConfigMap type="Skin">
     <Meta name="title">Lambda-Crowbar</Meta>
-    <Meta name="description">An homage to crowbars, and the 11th letter
-    in the Greek alphabet.</Meta>
+    <Meta name="description">An homage to crowbars, and the 11th letter in the Greek alphabet.</Meta>
     <Meta name="author">Micah Larson</Meta>
     <Meta name="author_location">Colorado, USA</Meta>
     <Meta name="author_email">larson.micah@gmail.com</Meta>
