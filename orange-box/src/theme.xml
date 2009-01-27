@@ -40,7 +40,7 @@
     <Attribute name="gadget_area.tab.selected.background_color">black</Attribute>
     <Attribute name="gadget_area.tab.selected.text_color">white</Attribute>
     <Attribute name="gadget_area.tab.unselected.background_color">#c3c3c3</Attribute>
-    <Attribute name="gadget_area.tab.unselected.text_color ">black</Attribute>
+    <Attribute name="gadget_area.tab.unselected.text_color">black</Attribute>
     <!-- END VERSION-DEPENDANT SECTION-->
 
     <Attribute name="gadget_area.border_color">#fb7e14</Attribute>
