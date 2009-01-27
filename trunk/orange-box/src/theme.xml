@@ -7,9 +7,7 @@
     <Meta name="author_location">Colorado, USA</Meta>
     <Meta name="author_email">larson.micah@gmail.com</Meta>
     <Meta name="screenshot">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/screencap.png</Meta>
-    <!--
-    <Meta name="thumbnail"></Meta>
-    -->
+    <Meta name="thumbnail">http://orange-box.googlecode.com/svn/trunk/orange-box/src/resources/thumbnail.png</Meta>
   </ConfigMap>
   <ConfigMap type="Skin">
     <Attribute name="header.background_color">#c3c3c3</Attribute>
