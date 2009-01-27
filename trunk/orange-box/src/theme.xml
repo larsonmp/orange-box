@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <ConfigMaps>
   <ConfigMap type="Skin">
-    <Meta name="title">Orange Box</Meta>
-    <Meta name="description">An homage to Valve's Half-Life series.</Meta>
+    <Meta name="title">Lambda-Crowbar</Meta>
+    <Meta name="description">An homage to crowbars, and the 11th letter
+    in the Greek alphabet.</Meta>
     <Meta name="author">Micah Larson</Meta>
     <Meta name="author_location">Colorado, USA</Meta>
     <Meta name="author_email">larson.micah@gmail.com</Meta>
@@ -36,11 +37,11 @@
     <Attribute name="gadget_area.chat.header.highlight.background_color">white</Attribute>
 
     <!-- DEPEND ON USER'S VERSION OF iGoogle -->
-    <!-- <Attribute name="gadget_area.tab.border_color"></Attribute> -->
-    <!-- <Attribute name="gadget_area.tab.selected.background_color "></Attribute> -->
-    <!-- <Attribute name="gadget_area.tab.selected.text_color "></Attribute> -->
-    <!-- <Attribute name="gadget_area.tab.unselected.background_color"></Attribute> -->
-    <!-- <Attribute name="gadget_area.tab.unselected.text_color "></Attribute> -->
+    <Attribute name="gadget_area.tab.border_color">#fb7e14</Attribute>
+    <Attribute name="gadget_area.tab.selected.background_color ">black</Attribute>
+    <Attribute name="gadget_area.tab.selected.text_color ">white</Attribute>
+    <Attribute name="gadget_area.tab.unselected.background_color">#c3c3c3</Attribute>
+    <Attribute name="gadget_area.tab.unselected.text_color ">black</Attribute>
     <!-- END VERSION-DEPENDANT SECTION-->
 
     <Attribute name="gadget_area.border_color">#fb7e14</Attribute>
